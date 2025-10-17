@@ -55,7 +55,7 @@ Through this project, I strengthened my understanding of:
 ## 🔗 Links
 
 🌐 **Live Website:** (https://quantify-flow-f779e372.base44.app/)
-💻 **GitHub Repository:** [https://github.com/yourusername/QuantifyFlow](https://github.com/TyphoonCoder2007/QuantifyFlow)
+💻 **GitHub Repository:**(https://github.com/TyphoonCoder2007/QuantifyFlow)
 
 ---
 
@@ -68,7 +68,7 @@ Feel free to open an issue or share ideas for new features and improvements.
 
 ## 🧑‍💻 Author
 
-**Nirmalya [Your Last Name]**  
+**Nirmalya Ghosh**  
 Student | Web Developer | Tech Enthusiast  
 [LinkedIn Profile] (https://www.linkedin.com/in/nirmalya-ghosh-422569377))  
 
